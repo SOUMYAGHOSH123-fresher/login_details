@@ -1,0 +1,14 @@
+{
+    "name": "EXP-1",
+    "version": "1.0.0",
+    "main": "index1.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+      "inquirer":"^10.0.2"
+  }
+  }
